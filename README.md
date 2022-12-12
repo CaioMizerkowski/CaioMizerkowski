@@ -3,7 +3,7 @@
 Essa é a minha conta do github e aqui estão alguns dos meus trabalhos públicos e repositórios de estudos. Podem me contactar através do meu [Linkedin](https://www.linkedin.com/in/mizerkowski). 
 
 ## Linguagens e Tecnologias
-- Python🐍
+- Python🐍 (Numpy, TensorFlow, Pytorch)
 - SQL/TSQL🐬
 - Shell🐚
 - Linux🐧
