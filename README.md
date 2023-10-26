@@ -3,6 +3,8 @@
 Essa é a minha conta do github e aqui estão alguns dos meus trabalhos públicos e repositórios de estudos. Podem me contactar através do meu [Linkedin](https://www.linkedin.com/in/mizerkowski). 
 
 ## Linguagens e Tecnologias
+- Data Science📊
+- Machine Learning🤖
 - Python🐍 (Numpy, TensorFlow, Pytorch, openCV, etc)
 - SQL/TSQL🐬
 - Shell🐚
@@ -11,8 +13,7 @@ Essa é a minha conta do github e aqui estão alguns dos meus trabalhos público
 - ADF🏭
 
 ## Quero me aprofundar e aprender mais
-- Data Science📊
-- Machine Learning🤖
+- C++➕
 - Rust🦀
 
 ## Atualmente
