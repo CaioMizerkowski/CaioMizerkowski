@@ -8,12 +8,12 @@ Essa é a minha conta do github e aqui estão alguns dos meus trabalhos público
 - Python🐍 (Numpy, TensorFlow, Pytorch, openCV, etc)
 - SQL/TSQL🐬
 - Shell🐚
+- C++➕
 - Linux🐧
 - Azure🔷
 - ADF🏭
 
 ## Quero me aprofundar e aprender mais
-- C++➕
 - Rust🦀
 
 ## Atualmente
