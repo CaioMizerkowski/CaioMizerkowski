@@ -6,7 +6,7 @@ Atuo como cientista de dados, com foco em projetos de visão computacional, em u
 
 Atuei como engenheiro de dados e desenvolvedor numa empresa responsavél por entregar métricas para o setor de mídia OOH, usando scripts em Python, Bash, Powershell e SQL para fazer automações no processamento e pipeline de dados. Também usei muito durante esse processo o ambiente Azure, em especial o Azure SQL Server e o Azure Data Factory.
 
-Conclui meu TCC na engenharia eletrica na área de modelagem com foco na utiização de problemas inversos para a validação e compreensão de amplificadores de potência e faço mestrado com foco em visão computacional com o professor [Leandro dos Santos Coelho](https://www.linkedin.com/in/leandro-dos-santos-coelho-07a08893/).
+Conclui meu TCC na engenharia eletrica na área de modelagem com foco na utiização de problemas inversos para a validação e compreensão de amplificadores de potência, aonde utilizei redes neurais para modelar o comportamento dos amplificadores de potência e dos pré-distorcedores digitais. Atualmente faço mestrado com foco em visão computacional com o professor [Leandro dos Santos Coelho](https://www.linkedin.com/in/leandro-dos-santos-coelho-07a08893/).
 
 
 ## Linguagens e Tecnologias
